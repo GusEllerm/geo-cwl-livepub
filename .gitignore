@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.env
+.venv
+venv/
+ENV/
+env.bak/
+pip-wheel-metadata/
+*.sqlite3
+*.log
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# CWL/Output
+outputs/
+archive/
+*.tmp
+*.npy
+*.tif
+*.png
+*.zip
+secrets.json
+
+# Compiled Requirements
+requirements.txt
+
+# secrets
+secrets.json
