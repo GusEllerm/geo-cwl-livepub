@@ -1,0 +1,7 @@
+
+git+https://github.com/GusEllerm/livepublication-data-producer.git
+
+cwltool           # CWL reference runner
+pip-tools         # For compiling lock files
+pytest
+black
